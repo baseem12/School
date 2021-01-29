@@ -6,3 +6,5 @@ Sport Teacher
 
 Dance Teacher
 Maths Teacher
+Hindi Teacher
+
